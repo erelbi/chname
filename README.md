@@ -22,4 +22,4 @@ The package is built under the **/tmp/build-area/** directory.
 
     sudo dpkg -i  /tmp/build-area/chname_1.0_all.deb
 	
-#####End
+
