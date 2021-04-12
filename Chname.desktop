@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Chname
+GenericName=Chanme Uygulaması
+Comment=Hostname Değiştiriyoruz
+Exec=pkexec /usr/share/chname/src/hostnameChange.py
+Icon= /usr/share/chname/icons/chname.png
+Categories=Development;Application
+Terminal=false
