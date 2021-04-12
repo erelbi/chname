@@ -21,5 +21,7 @@ The package is built under the **/tmp/build-area/** directory.
 ## Install
 
     sudo dpkg -i  /tmp/build-area/chname_1.0_all.deb
-	
+
+## Download
+<a id="raw-url" href="http://github.com/erelbi/chname/releases/download/0.1/chname_1.0_all.deb">Download</a>
 
